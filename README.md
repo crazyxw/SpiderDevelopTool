@@ -23,7 +23,7 @@
 
 待检测图  
 
-![5](img/test.png)
+![5](img/test.png)  
 结果图   
 ![5](img/图片文字提取.jpg)
 
